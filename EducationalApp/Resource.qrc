@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/WorldObjects">
+        <file>soccerball.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>soccerball.png</file>
+        <file>target.png</file>
+        <file>explosion.png</file>
+        <file>fail.png</file>
+        <file>horizontal_vertical_movements.png</file>
+        <file>level_five.png</file>
+        <file>level_four.png</file>
+        <file>level_one.png</file>
+        <file>level_selector.png</file>
+        <file>level_six.png</file>
+        <file>level_three.png</file>
+        <file>level_two.png</file>
+        <file>mortar.png</file>
+        <file>projectile_motion_equation.png</file>
+        <file>variables.png</file>
+        <file>well_done.png</file>
+        <file>background.png</file>
+        <file>vibrant_cannon_ball.png</file>
+        <file>level_selector_background.png</file>
+        <file>semi_vibrant_cannon_ball.png</file>
+        <file>title.png</file>
+        <file>tutorial.png</file>
+    </qresource>
+</RCC>
